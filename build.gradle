@@ -13,7 +13,7 @@ allure {
     aspectjweaver = true
     configuration = "testImplementation"
     useJUnit5 {
-        version = "2.13.8" 
+        version = "2.13.8"
     }
 }
 
@@ -27,5 +27,6 @@ dependencies {
 test {
     useJUnitPlatform()
 }
-// 1779717550:AAHPJz3DPhds9eFawzbNEBp0VE05izQPgoM
-//-1001480818016
+// 1713981790:AAE3bi8G4Ve4Eis2k2jIvxlSNZoOU0yk_vo
+// https://api.telegram.org/bot{telegram_bot_secret}/getUpdates
+//ChatId: -1001450380046
